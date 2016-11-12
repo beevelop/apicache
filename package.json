@@ -41,6 +41,6 @@
   "dependencies": {
     "inflection": "^1.8.0",
     "lodash": "^4.4.0",
-    "memory-cache": "^0.1.4"
+    "memory-cache": "^0.1.6"
   }
 }
